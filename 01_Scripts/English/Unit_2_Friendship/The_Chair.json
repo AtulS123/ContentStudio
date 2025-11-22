@@ -1,0 +1,97 @@
+{
+    "metadata": {
+        "id": "ENG_U2_S2",
+        "title": "The Chair - A Story of Friendship",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 2: Friendship",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "Introduction",
+            "narration_text": "What makes a true friend? Is it someone who laughs with you, or someone who stands by you when you fall? Let's look at the story 'The Chair', which teaches us this valuable lesson.",
+            "visual_prompt": "A warm, illustrated title card saying 'True Friendship' with images of kids holding hands.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "The Challenge",
+            "narration_text": "The story is about a boy named Mario. Mario was popular and thought he had many friends. But his grandfather wasn't so sure. He challenged Mario to a test using a 'magic invisible chair'.",
+            "visual_prompt": "A boy (Mario) looking confident while an old man (Grandfather) gestures to an empty space.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "The Fall",
+            "narration_text": "The test was simple: sit on the invisible chair. Mario tried it in front of his schoolmates. Of course, he fell flat on the ground! And what did his 'friends' do? They laughed at him.",
+            "visual_prompt": "Mario falling on the ground in a school playground. A crowd of blurry figures in the background laughing.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "shake",
+                "params": {
+                    "intensity": "low",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "True Support",
+            "narration_text": "But not everyone laughed. Three students—Guneet, Asma, and Deepa—rushed to help him. They held him up, preventing him from falling again. They were the only ones who cared about his pain.",
+            "visual_prompt": "Three concerned children helping Mario up. They look kind and supportive.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "The Lesson",
+            "narration_text": "Mario realized the truth. The magic chair wasn't about sitting on air; it was about seeing who would catch you. He learned that true friends are the ones who support you, not the ones who enjoy your failure.",
+            "visual_prompt": "Mario smiling with his three true friends, walking away from the crowd. A symbol of friendship (like a heart or clasped hands) overlays the scene.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

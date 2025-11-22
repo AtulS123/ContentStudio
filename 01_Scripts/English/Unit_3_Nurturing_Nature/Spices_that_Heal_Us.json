@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "id": "ENG_U3_S2",
+        "title": "Spices that Heal Us",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 3: Nurturing Nature",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Letter",
+            "narration_text": "Vikram and Vaibhavi received a letter from their Daadi. She was happy they had recovered from their illness using her natural cures.",
+            "visual_prompt": "Vikram and Vaibhavi reading a handwritten letter from their grandmother (Daadi). They look happy.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Turmeric (Haldi)",
+            "narration_text": "Daadi wrote about the magic spices in her kitchen. First, Haldi or Turmeric. 'Haldi improves energy and digestion. It also reduces body pain.'",
+            "visual_prompt": "Daadi in her kitchen holding a spoonful of bright yellow turmeric powder.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.wav"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "Fenugreek (Methi)",
+            "narration_text": "Next was Methi or Fenugreek. 'Methi helps control sugar levels and weight. I soak the seeds overnight and drink the water in the morning.'",
+            "visual_prompt": "Daadi soaking brown fenugreek seeds in a glass of water.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "Cumin and Asafoetida",
+            "narration_text": "She remembered when they were babies. 'When you had tummy gas, I used Heeng water for relief. And Jeera water helps with sleep and digestion.'",
+            "visual_prompt": "A baby crying with a tummy ache, then smiling after Daadi applies Heeng water.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "Cinnamon, Clove, and Ginger",
+            "narration_text": "'Dalchini (Cinnamon) and Laung (Clove) help with toothaches. And Adrak (Ginger)? It's been used for 4000 years for coughs, colds, and pain!'",
+            "visual_prompt": "Close up of Cinnamon sticks, Cloves, and fresh Ginger root on a wooden table.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.wav"
+            },
+            "effect": {
+                "type": "ken_burns",
+                "params": {
+                    "zoom_direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "The After-Meal Digestives",
+            "narration_text": "'That's why we eat Saunf and Elaichi after meals. They help digestion and cure bad breath.'",
+            "visual_prompt": "A family finishing a meal and eating Fennel (Saunf) and Cardamom (Elaichi) from a small bowl.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "title": "The Advice",
+            "narration_text": "Daadi finished her letter with important advice. 'Natural cures are passed down for generations. But remember, always consult an elder before using them!'",
+            "visual_prompt": "Vikram and Vaibhavi in the kitchen, looking at the spice jars with new respect.",
+            "assets": {
+                "image_file": "scene_07.png",
+                "audio_file": "scene_07.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

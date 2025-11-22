@@ -1,0 +1,140 @@
+{
+  "metadata": {
+    "id": "ENG_U1_S2",
+    "title": "The Raven and the Fox",
+    "subject": "English",
+    "class": "6",
+    "unit": "Unit 1: Fables and Folk Tales",
+    "version": "1.0",
+    "voice": "en-GB-SoniaNeural",
+    "rate": "-15%",
+    "type": "poem"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The Prize",
+      "narration_text": "Mr Raven was perched upon a limb,\nAnd Reynard the Fox looked up at him;\nFor the Raven held in his great big beak,\nA morsel the Fox would go far to seek.",
+      "visual_prompt": "A forest setting. Mr. Raven is perched high on a tree limb. He holds a large, delicious morsel (cheese or meat) in his beak. Reynard the Fox looks up at him from below.",
+      "assets": {
+        "image_file": "scene_01.png",
+        "audio_file": "scene_01.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 13.01
+    },
+    {
+      "id": 2,
+      "title": "The Flattery Begins",
+      "narration_text": "Said the Fox, in admiring tones: 'My word!\nSir Raven, you are a handsome bird.",
+      "visual_prompt": "Reynard the Fox speaks up to the Raven with a charming smile, gesturing admiringly.",
+      "assets": {
+        "image_file": "scene_02.png",
+        "audio_file": "scene_02.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "right",
+          "duration": "auto"
+        }
+      },
+      "duration": 7.7
+    },
+    {
+      "id": 3,
+      "title": "The Temptation",
+      "narration_text": "Such feathers! If you would only sing,\nThe birds of these woods would call you King.'",
+      "visual_prompt": "The Fox continues to flatter. The Raven looks down, puffing up his chest, looking pleased.",
+      "assets": {
+        "image_file": "scene_03.png",
+        "audio_file": "scene_03.mp3"
+      },
+      "effect": {
+        "type": "static",
+        "params": {
+          "duration": "auto"
+        }
+      },
+      "duration": 6.82
+    },
+    {
+      "id": 4,
+      "title": "The Foolish Pride",
+      "narration_text": "The Raven, who did not see the joke,\nForgot that his voice was just a croak.",
+      "visual_prompt": "The Raven swells with pride, preparing to sing. He looks very self-important.",
+      "assets": {
+        "image_file": "scene_04.png",
+        "audio_file": "scene_04.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 6.41
+    },
+    {
+      "id": 5,
+      "title": "The Fall",
+      "narration_text": "He opened his beak, in his foolish pride-\nAnd down fell the morsel the Fox had eyed.",
+      "visual_prompt": "The Raven opens his beak wide to 'sing'. The morsel falls out of his beak towards the ground.",
+      "assets": {
+        "image_file": "scene_05.png",
+        "audio_file": "scene_05.mp3"
+      },
+      "effect": {
+        "type": "shake",
+        "params": {
+          "intensity": "low",
+          "duration": "auto"
+        }
+      },
+      "duration": 7.01
+    },
+    {
+      "id": 6,
+      "title": "The Lesson",
+      "narration_text": "'Ha-ha!' laughed the Fox. 'And now you know,\nIgnore sweet words that make you glow.",
+      "visual_prompt": "The Fox laughs, having caught the morsel. He looks up at the Raven with a sly grin.",
+      "assets": {
+        "image_file": "scene_06.png",
+        "audio_file": "scene_06.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "out",
+          "duration": "auto"
+        }
+      },
+      "duration": 7.22
+    },
+    {
+      "id": 7,
+      "title": "The Moral",
+      "narration_text": "Pride, my friend, is rather unwise;\nI'm sure this teaching is quite a surprise",
+      "visual_prompt": "The Fox trots away with his prize. The Raven looks down from the branch, looking sad and foolish.",
+      "assets": {
+        "image_file": "scene_07.png",
+        "audio_file": "scene_07.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "left",
+          "duration": "auto"
+        }
+      },
+      "duration": 7.25
+    }
+  ]
+}

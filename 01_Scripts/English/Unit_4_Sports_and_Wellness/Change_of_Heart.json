@@ -1,0 +1,112 @@
+{
+    "metadata": {
+        "id": "ENG_U4_S1",
+        "title": "Change of Heart",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 4: Sports and Wellness",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Sore Loser",
+            "narration_text": "Rohan was a boy who loved to win. In fact, he loved winning so much that he hated losing. If he lost a game of marbles, he would get angry and storm off. He didn't know how to be a good sport.",
+            "visual_prompt": "School playground. A boy named Rohan looking angry and kicking the dirt after losing a game.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "The New Rival",
+            "narration_text": "One day, a new student named Surya joined the class. Surya was amazing at badminton. Rohan immediately saw him as a rival and wanted to beat him to prove he was the best.",
+            "visual_prompt": "Surya playing badminton gracefully. Rohan watching him from the sidelines with a competitive look.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "The Match",
+            "narration_text": "They played a match. Rohan was tense and serious, focusing only on the score. Surya, on the other hand, was relaxed. He laughed when he missed a shot and praised Rohan when he played well.",
+            "visual_prompt": "Badminton match. Rohan looks stressed and sweaty. Surya looks happy and relaxed.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "The Unfair Win",
+            "narration_text": "Rohan wanted to win so badly that he cheated when Surya wasn't looking. He won the match, but it was a hollow victory. Surya just smiled, shook his hand, and said, 'Great game, Rohan! That was fun.'",
+            "visual_prompt": "Rohan shaking hands with Surya. Rohan looks guilty/conflicted. Surya looks genuinely happy.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "The Realization",
+            "narration_text": "That night, Rohan couldn't sleep. He realized that Surya didn't care about the score; he cared about the game. Rohan felt ashamed of his anger and his cheating.",
+            "visual_prompt": "Night time. Rohan sitting on his bed, looking thoughtful and regretful.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "A New Attitude",
+            "narration_text": "The next day, Rohan played differently. He laughed when he made a mistake. He cheered for others. He realized that sports are about fun and friendship, not just winning.",
+            "visual_prompt": "Rohan playing with other kids, laughing and high-fiving Surya. The atmosphere is joyful.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

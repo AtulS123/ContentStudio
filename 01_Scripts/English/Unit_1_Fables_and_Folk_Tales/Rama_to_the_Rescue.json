@@ -1,0 +1,137 @@
+{
+  "metadata": {
+    "id": "ENG_U1_S3",
+    "title": "Rama to the Rescue",
+    "subject": "English",
+    "class": "6",
+    "unit": "Unit 1: Fables and Folk Tales",
+    "version": "1.0"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "The Night Noise",
+      "narration_text": "It was a quiet night in the village. Everyone was asleep, except for one couple. The wife whispered, 'Ssssh! Listen! Somebody is trying to get in.'",
+      "visual_prompt": "Interior of a village house at night. Dark and quiet. A Man and his Wife are in bed, looking fearful and listening intently.",
+      "assets": {
+        "image_file": "scene_01.png",
+        "audio_file": "scene_01.mp3"
+      },
+      "effect": {
+        "type": "static",
+        "params": {
+          "duration": "auto"
+        }
+      },
+      "duration": 13.15
+    },
+    {
+      "id": 2,
+      "title": "The Intruder",
+      "narration_text": "A thief slipped through a cracked window into the house while the couple slept, his intentions unknown.",
+      "visual_prompt": "A thief is climbing through a window of the dark house, moonlight illuminating his silhouette.",
+      "assets": {
+        "image_file": "scene_02.png",
+        "audio_file": "scene_02.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "right",
+          "duration": "auto"
+        }
+      },
+      "duration": 5.98
+    },
+    {
+      "id": 3,
+      "title": "The Clever Plan",
+      "narration_text": "The husband whispered to his wife, 'The thief might be armed, so we must trick him into calling the village kotwal.' She nodded, ready to act.",
+      "visual_prompt": "Inside, the husband leans close to his wife, whispering a cautious plan.",
+      "assets": {
+        "image_file": "scene_03.png",
+        "audio_file": "scene_03.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 9.48
+    },
+    {
+      "id": 4,
+      "title": "The Trap",
+      "narration_text": "The husband asked his wife, 'If we have a son, what shall we name him?' 'We will call him Rama,' she replied. 'But what if he goes out to play and is far away?' asked the husband. 'How will you call him back?' The wife smiled and said, 'I will call him like this.' She called out softly, 'Rama?' Then she raised her voice, 'Rama!' Finally, she screamed at the top of her lungs, 'RAMA! RAMA!'",
+      "visual_prompt": "Inside the dark house. The Man and Wife are sitting up in bed, talking. The Wife cups her hands around her mouth as if calling out to someone far away.",
+      "assets": {
+        "image_file": "scene_04.png",
+        "audio_file": "scene_04.mp3"
+      },
+      "effect": {
+        "type": "shake",
+        "params": {
+          "intensity": "medium",
+          "duration": "auto"
+        }
+      },
+      "duration": 30.12
+    },
+    {
+      "id": 5,
+      "title": "The Rescue",
+      "narration_text": "Rama, the village Kotwal, was patrolling nearby. He heard his name being called desperately. He ran towards the house.",
+      "visual_prompt": "Outside, Rama the Village Kotwal (policeman) is on patrol. He hears his name being screamed. He runs towards the house.",
+      "assets": {
+        "image_file": "scene_05.png",
+        "audio_file": "scene_05.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "left",
+          "duration": "auto"
+        }
+      },
+      "duration": 9.74
+    },
+    {
+      "id": 6,
+      "title": "Caught Red-Handed",
+      "narration_text": "Rama burst in and caught the thief. 'Oh, Oh! Some thief has dug his way into this house!' The thief trembled, 'Please, let me go!'",
+      "visual_prompt": "Rama the Kotwal catches the thief trying to escape. The Thief is surprised and terrified.",
+      "assets": {
+        "image_file": "scene_06.png",
+        "audio_file": "scene_06.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 11.62
+    },
+    {
+      "id": 7,
+      "title": "Safe and Sound",
+      "narration_text": "The villagers woke up and helped catch the thief. The couple thanked Rama. 'Your clever trick saved you,' Rama said. 'You called the right name at the right time!'",
+      "visual_prompt": "The villagers gather. The Thief is tied up. The Man and Wife thank Rama.",
+      "assets": {
+        "image_file": "scene_07.png",
+        "audio_file": "scene_07.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "out",
+          "duration": "auto"
+        }
+      },
+      "duration": 11.81
+    }
+  ]
+}
