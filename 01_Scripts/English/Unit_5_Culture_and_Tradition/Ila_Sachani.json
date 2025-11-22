@@ -1,0 +1,130 @@
+{
+    "metadata": {
+        "id": "ENG_U5_S2",
+        "title": "Ila Sachani",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 5: Culture and Tradition",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Challenge",
+            "narration_text": "In a small village in Gujarat, Ila Sachani was born. But life presented a challenge—she could not use her hands like other children.",
+            "visual_prompt": "A small village house in Gujarat. Baby Ila is born. Her hands hang loose by her sides. Her parents look worried.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "The Desire",
+            "narration_text": "While other children drew in the sand or plucked flowers, Ila wondered why she couldn't join them. She wanted to create too.",
+            "visual_prompt": "Young Ila watching other kids draw in the sand. She looks sad, wanting to join in.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "The Solution",
+            "narration_text": "Her mother and grandmother decided to help. They taught her the traditional Kathiawar embroidery—using her feet! It was hard, but Ila was determined.",
+            "visual_prompt": "Ila's mother and grandmother teaching her to hold a needle with her feet. Ila struggling but trying hard.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.wav"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "Mastering the Art",
+            "narration_text": "Ila didn't give up. She became an expert. She learned many styles—Kachhi, Kashmiri, Lucknawi. Her feet wove magic.",
+            "visual_prompt": "Montage of Ila growing up. Threading a needle with her toes. Creating complex, colorful designs on cloth.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.wav"
+            },
+            "effect": {
+                "type": "ken_burns",
+                "params": {
+                    "zoom_direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "Recognition",
+            "narration_text": "Her talent was discovered. Her work was shown at a state exhibition. People were amazed by the beauty created by her feet.",
+            "visual_prompt": "Government officials visiting her. They are amazed. Ila's work being displayed at an exhibition.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "The Award",
+            "narration_text": "Ila became a celebrated artist. She won many awards, including the President's Medal.",
+            "visual_prompt": "Ila receiving a prestigious award (President's Medal). She smiles proudly.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 7,
+            "title": "Independence",
+            "narration_text": "Ila found joy and independence. She proved that with hard work and never giving up, challenges can be turned into victories.",
+            "visual_prompt": "Ila working happily, earning money, surrounded by her beautiful creations.",
+            "assets": {
+                "image_file": "scene_07.png",
+                "audio_file": "scene_07.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

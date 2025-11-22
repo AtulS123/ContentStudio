@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "id": "ENG_U5_S1",
+        "title": "Kalakritiyon ka Bharat",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 5: Culture and Tradition",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Classroom",
+            "narration_text": "The students gathered in the big hall for the 'Ek Bharat, Shreshtha Bharat' programme. 'Are you ready to meet your friends from all over the country?' asked the teacher. 'Yes!' shouted the students.",
+            "visual_prompt": "A large school hall. Students sitting excitedly. A teacher standing at the front.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Uttarakhand - Aipan Art",
+            "narration_text": "The video started. First was Aakansha from Uttarakhand. 'Pranam! I am Aakansha. This is Aipan, our folk art. We draw it with white rice paste on red clay walls for festivals.'",
+            "visual_prompt": "A video screen lights up. Aakansha (girl) appears. Background of Uttarakhand mountains. She shows white designs on a red floor.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "Odisha - Dhokra Craft",
+            "narration_text": "Next was Priyaranjan from Odisha. 'Suprabhat! I am Priyaranjan. My tribe practices the 4000-year-old Dhokra metal craft. We use the lost-wax technique to create beautiful brass figures.'",
+            "visual_prompt": "Priyaranjan (boy) appears. He holds a metal figure. Montage of making a clay model, covering with wax, and pouring molten metal.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.wav"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "Kerala - Coconut Shell Craft",
+            "narration_text": "Then came Chitra from Kerala. 'Suprabhaatam! I am Chitra. We make eco-friendly crafts from coconut shells. We clean, smooth, and polish them to make bowls and jewellery.'",
+            "visual_prompt": "Chitra (girl) appears. She is polishing a coconut shell bowl.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "Andhra Pradesh - Kondapalli Toys",
+            "narration_text": "Finally, Balamurali from Andhra Pradesh. 'Subhodayam! I am Balamurali. In Kondapalli, we make toys from soft wood. We carve, join with tamarind paste, and paint them with vegetable dyes.'",
+            "visual_prompt": "Balamurali (boy) appears. He is painting a wooden toy of a bullock cart.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "Unity in Diversity",
+            "narration_text": "The students clapped. They learned how different states have unique and beautiful traditions, yet they are all part of one India.",
+            "visual_prompt": "Split screen showing all four children with their art forms. The class applauds.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

@@ -1,0 +1,137 @@
+{
+    "metadata": {
+        "id": "ENG_U1_S1",
+        "title": "The Golden Banana (A Bottle of Dew)",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 1: Fables and Folk Tales",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Lazy Dreamer",
+            "narration_text": "Once upon a time, there was a young man named Raman. He was the son of a wealthy landlord, but he was very lazy. He didn't want to work. Instead, he spent all his time reading books about magic, hoping to find a way to turn dirt into gold.",
+            "visual_prompt": "Ancient India. A young man, Raman, lounging on a cot in a garden, reading an old scroll. He looks dreamy and lazy.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            },
+            "duration": 17.00
+        },
+        {
+            "id": 2,
+            "title": "The Wise Sage",
+            "narration_text": "One day, a wise sage visited the village. Raman rushed to him and asked, 'Master, is there a magic potion that can turn things into gold?' The sage smiled and said, 'Yes, I know of such a potion. But it requires a special ingredient.'",
+            "visual_prompt": "Raman bowing respectfully to an old, wise sage with a white beard sitting under a tree.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            },
+            "duration": 17.31
+        },
+        {
+            "id": 3,
+            "title": "The Difficult Task",
+            "narration_text": "'You must plant banana trees,' said the sage. 'And in winter, you must collect the morning dew from their leaves. When you have five liters of this dew, bring it to me, and I will make the potion.'",
+            "visual_prompt": "The sage gesturing towards a banana plant. Raman looks listening intently.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            },
+            "duration": 12.94
+        },
+        {
+            "id": 4,
+            "title": "Years of Hard Work",
+            "narration_text": "Raman went home and started planting. He planted hundreds of banana trees. Every winter morning, he woke up early to collect the tiny drops of dew. It took him six long years to fill the bottle.",
+            "visual_prompt": "Montage: Raman planting trees, watering them, and carefully collecting dew drops from leaves into a bottle.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "ken_burns",
+                "params": {
+                    "zoom_direction": "in",
+                    "duration": "auto"
+                }
+            },
+            "duration": 13.89
+        },
+        {
+            "id": 5,
+            "title": "The Harvest",
+            "narration_text": "While Raman worked in the fields, his wife took the bananas to the market. The crop was so good that she sold them for a lot of money. Soon, their house was filled with wealth from the harvest.",
+            "visual_prompt": "Raman's wife selling baskets of fresh yellow bananas in a busy market and receiving gold coins.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            },
+            "duration": 12.28
+        },
+        {
+            "id": 6,
+            "title": "The Magic Potion",
+            "narration_text": "Finally, Raman took the bottle of dew to the sage. The sage chanted some words and sprinkled the dew on a copper vessel. But nothing happened! Raman was furious. 'You cheated me!' he cried.",
+            "visual_prompt": "Raman looking angry as he holds a wet copper vessel that hasn't turned to gold. The sage looks calm.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.mp3"
+            },
+            "effect": {
+                "type": "shake",
+                "params": {
+                    "intensity": "low",
+                    "duration": "auto"
+                }
+            },
+            "duration": 15.00
+        },
+        {
+            "id": 7,
+            "title": "The Real Gold",
+            "narration_text": "The sage smiled and called Raman's wife. She opened a chest full of gold coins. 'Look,' said the sage. 'This is the gold you grew with your hard work. There is no magic potion. Hard work is the only magic.'",
+            "visual_prompt": "The sage pointing to a chest full of gold coins held by Raman's wife. Raman looks stunned and realizing.",
+            "assets": {
+                "image_file": "scene_07.png",
+                "audio_file": "scene_07.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            },
+            "duration": 17.02
+        }
+    ]
+}

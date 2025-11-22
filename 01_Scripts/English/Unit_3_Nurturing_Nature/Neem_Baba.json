@@ -1,0 +1,96 @@
+{
+    "metadata": {
+        "id": "ENG_U3_S1",
+        "title": "Neem - The Wonder Tree",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 3: Nurturing Nature",
+        "version": "2.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "Introduction",
+            "narration_text": "In the courtyards of India stands a tree known as the 'Village Pharmacy'. This is the Neem tree. For centuries, it has been revered not just for its shade, but for its incredible healing powers.",
+            "visual_prompt": "A large, majestic Neem tree in a traditional Indian village courtyard. Sunlight filters through its leaves.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "up",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Origins",
+            "narration_text": "The Neem tree is native to the Indian subcontinent. Its scientific name is Azadirachta indica. In Sanskrit, it is called 'Arishta', which means 'the one that cures diseases'.",
+            "visual_prompt": "A botanical illustration of a Neem branch with leaves and fruits, overlaid on an old map of India.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "Medicinal Uses",
+            "narration_text": "Every part of the Neem tree is useful. Its leaves are a natural antiseptic, used to treat skin conditions and keep germs away. Neem twigs were traditionally used as toothbrushes to keep teeth healthy.",
+            "visual_prompt": "Close up of fresh green neem leaves and a traditional neem twig toothbrush.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "Agricultural Uses",
+            "narration_text": "Neem is also a farmer's best friend. Neem seed powder is a natural pesticide. It repels harmful insects like locusts and termites without harming the environment or the crops.",
+            "visual_prompt": "A farmer standing in a healthy green field, holding a handful of neem seeds.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "Modern Applications",
+            "narration_text": "Today, neem is used in soaps, shampoos, and medicines all over the world. It purifies the air and cools the environment. Truly, the Neem tree is nature's gift to mankind.",
+            "visual_prompt": "Modern products like neem soap and oil bottles arranged neatly, with a neem tree in the background.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

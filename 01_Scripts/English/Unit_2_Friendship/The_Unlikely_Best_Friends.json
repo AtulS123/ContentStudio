@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "id": "ENG_U2_S1",
+        "title": "The Unlikely Best Friends",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 2: Friendship",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "The Lonely Giant",
+            "narration_text": "Gajaraj the elephant lived in the best booth of the royal stables. The king loved him and ensured he was well cared for. But despite the royal comforts, Gajaraj was sad because he had no friends.",
+            "visual_prompt": "The royal stables. Gajaraj, a magnificent elephant, stands in a clean, spacious booth. He looks sad and lonely despite the luxury.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "The Visitor",
+            "narration_text": "One evening, a stray dog wandered in. He was tired and hungry. Gajaraj, seeing his state, pushed some of his food towards the dog. The dog ate gratefully and fell asleep.",
+            "visual_prompt": "Late evening. A skinny, tired stray dog wanders into the stable. Gajaraj pushes some food towards him.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "A Blossoming Friendship",
+            "narration_text": "A friendship blossomed. The dog shared Gajaraj's food and even went with him for his daily bath. They played together, and Gajaraj would even carry the dog on his back.",
+            "visual_prompt": "Gajaraj carrying the dog on his back near a pond. Both look happy.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.wav"
+            },
+            "effect": {
+                "type": "ken_burns",
+                "params": {
+                    "zoom_direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "The Separation",
+            "narration_text": "One day, a farmer recognized the dog as his lost pet, Buntee. He tied a rope around Buntee and took him away. Neither the farmer nor the mahout noticed the tears in the eyes of the two friends.",
+            "visual_prompt": "A farmer drags the dog (Buntee) away with a rope. Gajaraj watches helplessly, tears in his eyes.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "The Hunger Strike",
+            "narration_text": "Gajaraj stopped eating. The mahout was worried. He checked for illness but found none. He realized Gajaraj was missing his friend.",
+            "visual_prompt": "Gajaraj refusing food. He looks weak and sad. The mahout is worried, checking his tummy.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.wav"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "The Reunion",
+            "narration_text": "Meanwhile, Buntee also refused to eat. The farmer, realizing the bond, set him free. Buntee ran all the way back to the stable. Gajaraj picked him up with joy, and the two friends were reunited forever.",
+            "visual_prompt": "Buntee runs back to the stable. Gajaraj picks him up in a joyous swing with his trunk.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}

@@ -15,9 +15,18 @@ models/*
 output/*
 !output/.keep
 
+# Temporary files
+*.txt
+!README.md
+*.tmp
+
 # IDE
 .vscode/
 .idea/
 
 # Hugging Face
 .cache/
+
+# OS
+.DS_Store
+Thumbs.db

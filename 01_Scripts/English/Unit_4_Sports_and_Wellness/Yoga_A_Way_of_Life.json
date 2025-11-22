@@ -1,0 +1,113 @@
+{
+    "metadata": {
+        "id": "ENG_U4_S2",
+        "title": "Yoga - A Way of Life",
+        "subject": "English",
+        "class": "6",
+        "unit": "Unit 4: Sports and Wellness",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "Origins",
+            "narration_text": "Yoga is a practice from ancient India. The word comes from 'Yuj', meaning to unite. Sage Patanjali described it as a way to quiet the mind.",
+            "visual_prompt": "Ancient India. Sage Patanjali writing the 'Yoga Sutras'. Background of nature and temples.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 2,
+            "title": "Physical Benefits",
+            "narration_text": "Yoga helps stretch and strengthen muscles. It improves flexibility, balance, and reduces body pain.",
+            "visual_prompt": "People doing various Asanas (postures). Stretching, balancing.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 3,
+            "title": "Mental Peace",
+            "narration_text": "It involves breathing techniques and meditation. This calms the mind, reduces stress, and improves concentration.",
+            "visual_prompt": "A person meditating in a calm environment. Breathing deeply (Pranayama).",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.wav"
+            },
+            "effect": {
+                "type": "static",
+                "params": {
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 4,
+            "title": "Health Boost",
+            "narration_text": "Yoga boosts the immune system, improves heart health, and helps in weight loss. It promotes overall well-being.",
+            "visual_prompt": "Diagram of a human body showing heart, blood circulation, and immune system glowing.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.wav"
+            },
+            "effect": {
+                "type": "ken_burns",
+                "params": {
+                    "zoom_direction": "in",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 5,
+            "title": "Global Reach",
+            "narration_text": "Today, yoga is practiced worldwide. The WHO even launched an app to help people practice it anywhere.",
+            "visual_prompt": "People of different nationalities practicing yoga. The WHO mYoga App logo.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.wav"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            }
+        },
+        {
+            "id": 6,
+            "title": "The Practice",
+            "narration_text": "Remember, yoga is not just exercise. It is the union of body and mind. When practiced with awareness, it becomes a way of life.",
+            "visual_prompt": "A diverse group of people practicing yoga together in a park, moving in sync with their breath.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.wav"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            }
+        }
+    ]
+}
