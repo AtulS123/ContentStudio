@@ -1,0 +1,23 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.env
+venv/
+.venv/
+
+# Models (Too large for Git)
+models/*
+!models/.keep
+
+# Output (Generated content)
+output/*
+!output/.keep
+
+# IDE
+.vscode/
+.idea/
+
+# Hugging Face
+.cache/
