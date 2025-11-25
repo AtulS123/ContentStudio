@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "id": "ENG_U1_G2",
+    "title": "Present Progressive Tense - What's Happening Now",
+    "subject": "English - Grammar",
+    "class": "6",
+    "unit": "Unit 1: Fables and Folk Tales",
+    "lesson_type": "Grammar",
+    "voice": "en-US-JennyNeural",
+    "rate": "-10%",
+    "version": "1.0"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "Actions Happening Right Now",
+      "narration_text": "Hello everyone! Today we'll learn about the Present Progressive Tense. This tense helps us talk about actions that are happening right now, at this very moment. It's like taking a photo of what someone is doing!",
+      "visual_prompt": "Animated classroom with children doing various activities - one reading, one writing, one drawing. A camera icon 'captures' each action.",
+      "assets": {
+        "image_file": "scene_01.png",
+        "audio_file": "scene_01.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 15.7
+    },
+    {
+      "id": 2,
+      "title": "The Formula",
+      "narration_text": "The Present Progressive Tense has a simple formula: We use 'am', 'is', or 'are', then add the verb with 'ing' at the end. For example: I am playing. She is reading. They are dancing. Let's see how it works!",
+      "visual_prompt": "Colorful formula board showing: 'am/is/are + verb + ing' with building blocks. Each word is a colorful block that fits together.",
+      "assets": {
+        "image_file": "scene_02.png",
+        "audio_file": "scene_02.mp3"
+      },
+      "effect": {
+        "type": "build_up",
+        "params": {
+          "direction": "bottom_to_top",
+          "duration": "auto"
+        }
+      },
+      "duration": 18.36
+    },
+    {
+      "id": 3,
+      "title": "I am studying",
+      "narration_text": "Let's start with 'I'. When I talk about myself, I use 'am'. Right now, I am studying in Grade 6. I am learning grammar. I am having fun! See how we add 'ing' to the verbs: study becomes studying, learn becomes learning!",
+      "visual_prompt": "A cheerful student at a desk with books. Speech bubbles show: 'I am studying', 'I am learning', 'I am having fun'. The 'ing' endings are highlighted in bright colors.",
+      "assets": {
+        "image_file": "scene_03.png",
+        "audio_file": "scene_03.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "right",
+          "duration": "auto"
+        }
+      },
+      "duration": 19.94
+    },
+    {
+      "id": 4,
+      "title": "She is reading",
+      "narration_text": "When we talk about one person, like 'he', 'she', or 'it', we use 'is'. Look: My friend is reading a story book. The teacher is writing on the board. The cat is sleeping on the mat. All happening right now!",
+      "visual_prompt": "Three panels showing: 1) Girl reading a book, 2) Teacher writing on board, 3) Cat sleeping. Each has 'is + verb-ing' labeled clearly.",
+      "assets": {
+        "image_file": "scene_04.png",
+        "audio_file": "scene_04.mp3"
+      },
+      "effect": {
+        "type": "slide_show",
+        "params": {
+          "transition": "fade",
+          "duration": "auto"
+        }
+      },
+      "duration": 17.33
+    },
+    {
+      "id": 5,
+      "title": "We are playing",
+      "narration_text": "For 'we', 'you', and 'they', we use 'are'. Listen to these: We are playing a board game. You are listening to this lesson. They are running in the park. All these actions are happening right now!",
+      "visual_prompt": "Three scenes: 1) Group of children playing board game, 2) Students with headphones listening, 3) Kids running in park. Each labeled with 'are + verb-ing'.",
+      "assets": {
+        "image_file": "scene_05.png",
+        "audio_file": "scene_05.mp3"
+      },
+      "effect": {
+        "type": "ken_burns",
+        "params": {
+          "zoom_direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 16.08
+    },
+    {
+      "id": 6,
+      "title": "Practice Makes Perfect",
+      "narration_text": "Excellent work! Now you know the Present Progressive Tense. Remember: Use 'am' with I, 'is' with he/she/it, and 'are' with we/you/they. Then add 'ing' to the verb. Now you can describe what's happening around you right now!",
+      "visual_prompt": "Summary chart with three columns showing: 'I am playing', 'She is reading', 'They are dancing'. Happy children celebrating with thumbs up.",
+      "assets": {
+        "image_file": "scene_06.png",
+        "audio_file": "scene_06.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "out",
+          "duration": "auto"
+        }
+      },
+      "duration": 18.72
+    }
+  ]
+}

@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "id": "ENG_U2_G1",
+        "title": "Past Tense - Three Forms",
+        "subject": "English - Grammar",
+        "class": "6",
+        "unit": "Unit 2: Friendship",
+        "lesson_type": "Grammar",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "Talking About the Past",
+            "narration_text": "Hi friends! Today we're going to learn about the Past Tense. The past tense helps us talk about things that already happened - yesterday, last week, or even years ago. There are three special forms we'll learn!",
+            "visual_prompt": "A timeline showing 'PAST' (yesterday, last week), 'PRESENT' (today, now), and 'FUTURE' (tomorrow). The PAST section is highlighted with a clock showing earlier time.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            },
+            "duration": 13.00
+        },
+        {
+            "id": 2,
+            "title": "Simple Past Tense",
+            "narration_text": "The first form is Simple Past Tense. We use it for actions that finished in the past. We usually add 'ed' to verbs, or use special forms. For example: I played cricket yesterday. She looked at the stars. They walked to school.",
+            "visual_prompt": "Three panels showing completed actions: 1) Boy with cricket bat (played), 2) Girl looking up at stars (looked), 3) Children at school gate (walked). Each has 'FINISHED' stamp.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "slide_show",
+                "params": {
+                    "transition": "slide",
+                    "duration": "auto"
+                }
+            },
+            "duration": 15.00
+        },
+        {
+            "id": 3,
+            "title": "Past Progressive Tense",
+            "narration_text": "The second form is Past Progressive Tense. This shows an action that was going on in the past but didn't finish yet. We use 'was' or 'were' plus verb with 'ing'. Example: I was reading when you called. They were playing in the rain.",
+            "visual_prompt": "Split screen: Left shows a girl reading a book with phone ringing (was reading). Right shows children playing in rain (were playing). Both have 'ONGOING' labels.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            },
+            "duration": 14.00
+        },
+        {
+            "id": 4,
+            "title": "Past Perfect Tense",
+            "narration_text": "The third form is Past Perfect Tense. This shows an action that was completed before another past action. We use 'had' plus the past form of the verb. Listen: I had finished my homework before dinner. She had already left when I arrived.",
+            "visual_prompt": "Timeline showing two past events: First event 'had finished homework' (earlier), Second event 'dinner time' (later). Arrow shows which happened first.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "build_timeline",
+                "params": {
+                    "direction": "left_to_right",
+                    "duration": "auto"
+                }
+            },
+            "duration": 16.00
+        },
+        {
+            "id": 5,
+            "title": "Comparing the Three Forms",
+            "narration_text": "Let's compare! Simple Past: I played. Past Progressive: I was playing. Past Perfect: I had played. See the difference? Simple Past is finished. Past Progressive was ongoing. Past Perfect happened before something else!",
+            "visual_prompt": "Three columns comparing the same verb 'play': Column 1 'played' (finished action), Column 2 'was playing' (ongoing), Column 3 'had played' (before another action). Each with icons.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "reveal",
+                "params": {
+                    "direction": "left_to_right",
+                    "duration": "auto"
+                }
+            },
+            "duration": 15.00
+        },
+        {
+            "id": 6,
+            "title": "You're a Past Tense Expert!",
+            "narration_text": "Fantastic! Now you know all three forms of Past Tense. Use Simple Past for finished actions, Past Progressive for ongoing past actions, and Past Perfect for actions completed before other past actions. Keep practicing!",
+            "visual_prompt": "Celebration scene with three trophies labeled 'Simple Past', 'Past Progressive', 'Past Perfect'. Confetti and stars around happy students.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            },
+            "duration": 14.00
+        }
+    ]
+}

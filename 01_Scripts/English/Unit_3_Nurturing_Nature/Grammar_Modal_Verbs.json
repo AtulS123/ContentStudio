@@ -1,0 +1,121 @@
+{
+    "metadata": {
+        "id": "ENG_U3_G1",
+        "title": "Modal Verbs - Helping Verbs with Special Powers",
+        "subject": "English - Grammar",
+        "class": "6",
+        "unit": "Unit 3: Nurturing Nature",
+        "lesson_type": "Grammar",
+        "version": "1.0"
+    },
+    "scenes": [
+        {
+            "id": 1,
+            "title": "Meet the Modal Verbs",
+            "narration_text": "Hello friends! Today we'll learn about Modal Verbs, also called helping verbs. They are special words that help other verbs and give them different meanings. The main modal verbs are: may, should, can, must, need to, and used to. Let's explore their superpowers!",
+            "visual_prompt": "Six superhero characters, each wearing a cape with a modal verb: MAY, SHOULD, CAN, MUST, NEED TO, USED TO. They stand in a heroic pose.",
+            "assets": {
+                "image_file": "scene_01.png",
+                "audio_file": "scene_01.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "in",
+                    "duration": "auto"
+                }
+            },
+            "duration": 15.00
+        },
+        {
+            "id": 2,
+            "title": "MAY - Making Suggestions",
+            "narration_text": "First, meet MAY! We use 'may' to make polite suggestions. For example: You may share your lunch with your friend. You may borrow my book. It's a gentle way to give permission or make a suggestion!",
+            "visual_prompt": "Two children at lunch table. One child saying 'You may share my sandwich!' with a friendly smile. Speech bubble shows 'MAY = Suggestion'.",
+            "assets": {
+                "image_file": "scene_02.png",
+                "audio_file": "scene_02.mp3"
+            },
+            "effect": {
+                "type": "slide",
+                "params": {
+                    "direction": "right",
+                    "duration": "auto"
+                }
+            },
+            "duration": 12.00
+        },
+        {
+            "id": 3,
+            "title": "SHOULD - Giving Advice",
+            "narration_text": "Next is SHOULD! We use 'should' to give advice or say what's the right thing to do. Listen: You should brush your teeth twice a day. You should be kind to animals. It's like giving friendly advice!",
+            "visual_prompt": "A caring teacher or parent figure giving advice to a child. Speech bubbles: 'You should eat healthy food', 'You should study regularly'. Label: 'SHOULD = Advice'.",
+            "assets": {
+                "image_file": "scene_03.png",
+                "audio_file": "scene_03.mp3"
+            },
+            "effect": {
+                "type": "pan",
+                "params": {
+                    "direction": "left",
+                    "duration": "auto"
+                }
+            },
+            "duration": 13.00
+        },
+        {
+            "id": 4,
+            "title": "CAN - Showing Ability",
+            "narration_text": "Here comes CAN! We use 'can' to show what we're able to do. For example: I can swim. She can speak three languages. He can ride a bicycle. It shows our abilities and skills!",
+            "visual_prompt": "Three panels showing abilities: 1) Child swimming (I can swim), 2) Girl with language flags (She can speak), 3) Boy on bicycle (He can ride). Label: 'CAN = Ability'.",
+            "assets": {
+                "image_file": "scene_04.png",
+                "audio_file": "scene_04.mp3"
+            },
+            "effect": {
+                "type": "slide_show",
+                "params": {
+                    "transition": "fade",
+                    "duration": "auto"
+                }
+            },
+            "duration": 13.00
+        },
+        {
+            "id": 5,
+            "title": "MUST - Showing Compulsion",
+            "narration_text": "Now meet MUST! This is the strongest modal verb. We use 'must' when something is very important and has to be done. Example: You must wear a helmet while cycling. You must complete your homework. It's not a choice - it's necessary!",
+            "visual_prompt": "Important safety signs: Child wearing helmet on bike, student doing homework. Red 'MUST' stamps. Label: 'MUST = Compulsion (Very Important!)'.",
+            "assets": {
+                "image_file": "scene_05.png",
+                "audio_file": "scene_05.mp3"
+            },
+            "effect": {
+                "type": "emphasis",
+                "params": {
+                    "type": "pulse",
+                    "duration": "auto"
+                }
+            },
+            "duration": 14.00
+        },
+        {
+            "id": 6,
+            "title": "NEED TO and USED TO",
+            "narration_text": "Finally, NEED TO shows necessity - I need to study for my test. And USED TO shows past habits - I used to play with toys when I was little. Now you know all the modal verbs and their special powers!",
+            "visual_prompt": "Two scenes: 1) Student studying with books (need to = necessity), 2) Old photo of child with toys (used to = past habit). Summary of all 6 modals at bottom.",
+            "assets": {
+                "image_file": "scene_06.png",
+                "audio_file": "scene_06.mp3"
+            },
+            "effect": {
+                "type": "zoom",
+                "params": {
+                    "direction": "out",
+                    "duration": "auto"
+                }
+            },
+            "duration": 16.00
+        }
+    ]
+}

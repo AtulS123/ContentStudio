@@ -1,0 +1,122 @@
+{
+  "metadata": {
+    "id": "ENG_U1_G1",
+    "title": "Homophones - Words That Sound the Same",
+    "subject": "English - Grammar",
+    "class": "6",
+    "unit": "Unit 1: Fables and Folk Tales",
+    "lesson_type": "Grammar",
+    "voice": "en-US-JennyNeural",
+    "rate": "-10%",
+    "version": "1.0"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "What are Homophones?",
+      "narration_text": "Hi friends! Today we're going to learn about homophones. Homophones are words that sound exactly the same when you say them, but they have different spellings and different meanings. Let's explore some fun examples!",
+      "visual_prompt": "Colorful classroom setting with a friendly teacher character pointing to a board showing 'HOMOPHONES' with musical notes around it to show they 'sound' the same.",
+      "assets": {
+        "image_file": "scene_01.png",
+        "audio_file": "scene_01.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 14.64
+    },
+    {
+      "id": 2,
+      "title": "I and Eye",
+      "narration_text": "Let's start with 'I' and 'eye'. When I say 'I', I'm talking about myself. But 'eye' is the part of my body I use to see! They sound the same, but mean different things. For example: 'I can see with my eye.'",
+      "visual_prompt": "Split screen: Left side shows a child pointing to themselves with the letter 'I'. Right side shows a close-up of a child's eye with the word 'EYE' labeled.",
+      "assets": {
+        "image_file": "scene_02.png",
+        "audio_file": "scene_02.mp3"
+      },
+      "effect": {
+        "type": "split_reveal",
+        "params": {
+          "direction": "vertical",
+          "duration": "auto"
+        }
+      },
+      "duration": 17.14
+    },
+    {
+      "id": 3,
+      "title": "Son and Sun",
+      "narration_text": "Here's another pair: 'son' and 'sun'. A son is someone's child - like you are your parents' son or daughter. But the sun is the bright star in the sky that gives us light! Listen: 'The son played in the sun.'",
+      "visual_prompt": "Split screen: Left shows a happy boy with his parents labeled 'SON'. Right shows a bright yellow sun in a blue sky labeled 'SUN'.",
+      "assets": {
+        "image_file": "scene_03.png",
+        "audio_file": "scene_03.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "right",
+          "duration": "auto"
+        }
+      },
+      "duration": 15.05
+    },
+    {
+      "id": 4,
+      "title": "See and Sea",
+      "narration_text": "Let's try 'see' and 'sea'. When you 'see' something, you're looking at it with your eyes. But the 'sea' is the big ocean with water and fish! Here's a sentence: 'I can see the blue sea from the beach.'",
+      "visual_prompt": "A child at the beach pointing and looking at the ocean. Labels show 'SEE' with an arrow from the child's eyes, and 'SEA' pointing to the ocean waves.",
+      "assets": {
+        "image_file": "scene_04.png",
+        "audio_file": "scene_04.mp3"
+      },
+      "effect": {
+        "type": "ken_burns",
+        "params": {
+          "zoom_direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 15.34
+    },
+    {
+      "id": 5,
+      "title": "Ate and Eight",
+      "narration_text": "Here's a fun one: 'ate' and 'eight'. 'Ate' is what you did when you finished eating your food. 'Eight' is the number that comes after seven! Can you say this: 'I ate eight bananas for breakfast!'",
+      "visual_prompt": "A smiling child at a table with 8 bananas. Some are eaten (crossed out) showing 'ATE', and all 8 are numbered showing 'EIGHT'.",
+      "assets": {
+        "image_file": "scene_05.png",
+        "audio_file": "scene_05.mp3"
+      },
+      "effect": {
+        "type": "static",
+        "params": {
+          "duration": "auto"
+        }
+      },
+      "duration": 13.92
+    },
+    {
+      "id": 6,
+      "title": "Practice Time!",
+      "narration_text": "Great job! Now you know that homophones sound the same but have different spellings and meanings. Remember: 'I' and 'eye', 'son' and 'sun', 'see' and 'sea', 'ate' and 'eight'. Can you think of more homophones? Keep practicing!",
+      "visual_prompt": "Colorful summary board showing all the homophone pairs learned with small illustrations for each. Stars and confetti celebrating learning.",
+      "assets": {
+        "image_file": "scene_06.png",
+        "audio_file": "scene_06.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "out",
+          "duration": "auto"
+        }
+      },
+      "duration": 18.36
+    }
+  ]
+}

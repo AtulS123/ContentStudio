@@ -45,17 +45,26 @@ def add_durations_to_json(json_path):
     
     # Find audio directory
     safe_title = story_title.replace(" ", "_")
-    audio_base = os.path.join(ASSETS_DIR, "Audio", "English")
+    audio_base_dirs = [
+        os.path.join(ASSETS_DIR, "Audio", "English"),
+        os.path.join(ASSETS_DIR, "Audio", "English_-_Grammar")
+    ]
     
     audio_dir = None
-    for unit_dir in os.listdir(audio_base):
-        unit_path = os.path.join(audio_base, unit_dir)
-        if os.path.isdir(unit_path):
-            for story_dir in os.listdir(unit_path):
-                story_path = os.path.join(unit_path, story_dir)
-                if os.path.isdir(story_path) and (safe_title.lower() in story_dir.lower() or story_dir.lower() in safe_title.lower()):
-                    audio_dir = story_path
-                    break
+    for audio_base in audio_base_dirs:
+        if not os.path.exists(audio_base):
+            continue
+            
+        for unit_dir in os.listdir(audio_base):
+            unit_path = os.path.join(audio_base, unit_dir)
+            if os.path.isdir(unit_path):
+                for story_dir in os.listdir(unit_path):
+                    story_path = os.path.join(unit_path, story_dir)
+                    if os.path.isdir(story_path) and (safe_title.lower() in story_dir.lower() or story_dir.lower() in safe_title.lower()):
+                        audio_dir = story_path
+                        break
+            if audio_dir:
+                break
         if audio_dir:
             break
     

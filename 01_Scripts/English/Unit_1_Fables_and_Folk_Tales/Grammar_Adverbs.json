@@ -1,0 +1,123 @@
+{
+  "metadata": {
+    "id": "ENG_U1_G3",
+    "title": "Adverbs - Words That Describe Actions",
+    "subject": "English - Grammar",
+    "class": "6",
+    "unit": "Unit 1: Fables and Folk Tales",
+    "lesson_type": "Grammar",
+    "voice": "en-US-JennyNeural",
+    "rate": "-10%",
+    "version": "1.0"
+  },
+  "scenes": [
+    {
+      "id": 1,
+      "title": "What are Adverbs?",
+      "narration_text": "Hello friends! Today we're learning about adverbs. Adverbs are special words that tell us more about verbs - they describe HOW, WHEN, or WHERE an action happens. They make our sentences more interesting and clear!",
+      "visual_prompt": "Colorful classroom with a friendly teacher pointing to a board showing 'ADVERBS' with three branches labeled 'HOW?', 'WHEN?', 'WHERE?'. Animated action icons around each branch.",
+      "assets": {
+        "image_file": "scene_01.png",
+        "audio_file": "scene_01.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 16.63
+    },
+    {
+      "id": 2,
+      "title": "Adverbs Tell Us HOW",
+      "narration_text": "First, adverbs can tell us HOW something happens. Look at these examples: The rabbit runs quickly. The turtle walks slowly. The bird sings sweetly. The words 'quickly', 'slowly', and 'sweetly' tell us HOW the action is done!",
+      "visual_prompt": "Three panels showing: 1) Rabbit running fast with 'QUICKLY' label, 2) Turtle walking with 'SLOWLY' label, 3) Bird singing with 'SWEETLY' label. Each adverb is highlighted in bright colors.",
+      "assets": {
+        "image_file": "scene_02.png",
+        "audio_file": "scene_02.mp3"
+      },
+      "effect": {
+        "type": "slide_show",
+        "params": {
+          "transition": "slide",
+          "duration": "auto"
+        }
+      },
+      "duration": 18.55
+    },
+    {
+      "id": 3,
+      "title": "More HOW Adverbs",
+      "narration_text": "Here are more adverbs that tell us HOW: She speaks softly. He laughs loudly. They work carefully. The children play happily. Notice how most of these adverbs end with 'ly'? That's a helpful clue!",
+      "visual_prompt": "Four scenes with children: 1) Girl whispering 'softly', 2) Boy laughing 'loudly', 3) Students working 'carefully', 4) Kids playing 'happily'. The '-ly' endings are highlighted in each word.",
+      "assets": {
+        "image_file": "scene_03.png",
+        "audio_file": "scene_03.mp3"
+      },
+      "effect": {
+        "type": "pan",
+        "params": {
+          "direction": "right",
+          "duration": "auto"
+        }
+      },
+      "duration": 17.54
+    },
+    {
+      "id": 4,
+      "title": "Adverbs Tell Us WHEN",
+      "narration_text": "Adverbs can also tell us WHEN something happens. Listen to these: I will go to school tomorrow. We played cricket yesterday. She is studying now. The words 'tomorrow', 'yesterday', and 'now' tell us WHEN the action happens!",
+      "visual_prompt": "Timeline showing three points: 'YESTERDAY' (children playing cricket), 'NOW' (girl studying), 'TOMORROW' (boy walking to school). Each time word is clearly labeled.",
+      "assets": {
+        "image_file": "scene_04.png",
+        "audio_file": "scene_04.mp3"
+      },
+      "effect": {
+        "type": "build_timeline",
+        "params": {
+          "direction": "left_to_right",
+          "duration": "auto"
+        }
+      },
+      "duration": 17.76
+    },
+    {
+      "id": 5,
+      "title": "Adverbs Tell Us WHERE",
+      "narration_text": "Finally, adverbs can tell us WHERE something happens. For example: The cat is sleeping outside. Come here, please! The birds fly everywhere. The words 'outside', 'here', and 'everywhere' tell us WHERE the action takes place!",
+      "visual_prompt": "Three locations shown: 1) Cat sleeping outside a house labeled 'OUTSIDE', 2) Person pointing to a spot labeled 'HERE', 3) Birds flying in sky labeled 'EVERYWHERE'. Location words emphasized.",
+      "assets": {
+        "image_file": "scene_05.png",
+        "audio_file": "scene_05.mp3"
+      },
+      "effect": {
+        "type": "ken_burns",
+        "params": {
+          "zoom_direction": "in",
+          "duration": "auto"
+        }
+      },
+      "duration": 18.91
+    },
+    {
+      "id": 6,
+      "title": "You're an Adverb Expert!",
+      "narration_text": "Great job! Now you know that adverbs describe verbs by telling us HOW, WHEN, or WHERE. Remember: HOW - quickly, slowly, carefully. WHEN - yesterday, now, tomorrow. WHERE - here, outside, everywhere. Start noticing adverbs in your reading!",
+      "visual_prompt": "Summary chart with three colorful sections: 'HOW' (quickly, slowly), 'WHEN' (yesterday, now), 'WHERE' (here, outside). Happy students celebrating with stars and confetti.",
+      "assets": {
+        "image_file": "scene_06.png",
+        "audio_file": "scene_06.mp3"
+      },
+      "effect": {
+        "type": "zoom",
+        "params": {
+          "direction": "out",
+          "duration": "auto"
+        }
+      },
+      "duration": 22.08
+    }
+  ]
+}
